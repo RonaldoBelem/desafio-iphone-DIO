@@ -16,8 +16,6 @@ Aprender e aplicar os fundamentos de Programação Orientada a Objetos (POO) e L
 
 ## Diagrama UML
 
-O diagrama UML foi criado utilizando a sintaxe [Mermaid](https://mermaid.js.org/), uma alternativa open-source e que é compatível com arquivos Markdown.
-
 ```mermaid
 classDiagram
     class ReprodutorMusical {
@@ -62,7 +60,4 @@ Os dados são solicitados e inseridos através do terminal, onde o usuário rece
 4. Encerrar aparelho
 * Usuário: 1 *(depois ENTER para o próximo passo)* 
 
-</br>
 
-> [!NOTE]   
-> Achou algum erro ou tem alguma dúvida? Me envie uma mensagem no [linkedin](https://www.linkedin.com/in/veronica-vilas/)
