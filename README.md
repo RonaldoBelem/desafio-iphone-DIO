@@ -14,11 +14,6 @@ Aprender e aplicar os fundamentos de Programação Orientada a Objetos (POO) e L
 - PIlares do POO;
 - Interface.
 
-## Ferramentas e tecnologias
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=ED8B00) 
-
 ## Diagrama UML
 
 O diagrama UML foi criado utilizando a sintaxe [Mermaid](https://mermaid.js.org/), uma alternativa open-source e que é compatível com arquivos Markdown.
